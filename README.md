@@ -11,9 +11,9 @@ Neste projeto, sou responsável pela implementação da parte gráfica utilizand
 
 ## Como Contribuir
 
-Se você estiver interessado em contribuir para o desenvolvimento deste projeto, consulte as diretrizes de contribuição [aqui](link-para-diretrizes-de-contribuicao) 2022.
+Se você estiver interessado em contribuir para o desenvolvimento deste projeto, consulte as diretrizes de contribuição [aqui](https://github.com/AndreMouraL/PROJETOATLETA/blob/main/LICENSE) 2022.
 
 ## Licença
 
-Este projeto está licenciado sob a [Sua Licença]. Veja o arquivo [LICENSE](link-para-arquivo-de-licenca) para mais detalhes.
+Este projeto está licenciado sob a [Sua Licença]. Veja o arquivo [LICENSE](https://github.com/AndreMouraL/PROJETOATLETA/blob/main/LICENSE) para mais detalhes.
 
