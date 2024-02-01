@@ -1,7 +1,7 @@
 ![poo](https://github.com/AndreMouraL/PROJETOATLETA/assets/117699977/5d69c121-5e47-4cc4-9a71-1fc1b38cea2b)
 
 
-# PROJETO ATLETA (SISTEMA DE GERENCIAMENTO DE CADASTRO DE TIME DE FUTUBOL) USADO PARA CRIAÇÃO DE SOFTWARE OU APP .
+# PROJETO ATLETA (SISTEMA DE GERENCIAMENTO DE CADASTRO DE TIME DE FUTUBOL) USADO PARA CRIAÇÃO DE SOFTWARE OU APP (IDE DE APLICAÇÃO ECLIPSE).
 
 Bem-vindo ao meu projeto! Este é uma breve descrição do que meu projeto faz e de como ele é estruturado.
 
