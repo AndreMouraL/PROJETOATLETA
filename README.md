@@ -15,5 +15,5 @@ Se você estiver interessado em contribuir para o desenvolvimento deste projeto,
 
 ## Licença
 
-Este projeto está licenciado sob a [Sua Licença]. Veja o arquivo [LICENSE](https://github.com/AndreMouraL/PROJETOATLETA/blob/main/LICENSE) para mais detalhes.
+Este projeto está licenciado sob licença. Veja o arquivo [LICENSE](https://github.com/AndreMouraL/PROJETOATLETA/blob/main/LICENSE) para mais detalhes.
 
